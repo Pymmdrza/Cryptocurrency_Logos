@@ -11,7 +11,7 @@
 
 ---
 
-🔽 All Cryptocurrency Logo With Format `.SVG` : [Page Link](https://github.com/Pymmdrza/Cryptocurrency_Logos/tree/mainx/PNG)
+🔽 All Cryptocurrency Logo With Format `.PNG` : [Page Link](https://github.com/Pymmdrza/Cryptocurrency_Logos/tree/mainx/PNG)
 
 ✔️ Download All Logo Cryptocurrency with `.png` format to zip file : [Download](https://workupload.com/file/jFDfJDyJEXN)
 
