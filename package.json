@@ -1,0 +1,22 @@
+{
+  "name": "cryptocurrency_logos",
+  "version": "1.0.0",
+  "description": "![All cryptocurrency logo download free png and svg](https://raw.githubusercontent.com/Pymmdrza/Cryptocurrency_Logos/mainx/coveralllogo.png 'All cryptocurrency logo download free png and svg')",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pymmdrza/Cryptocurrency_Logos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pymmdrza/Cryptocurrency_Logos/issues"
+  },
+  "homepage": "https://github.com/Pymmdrza/Cryptocurrency_Logos#readme",
+  "devDependencies": {
+    "@types/node": "^18.14.6"
+  }
+}
