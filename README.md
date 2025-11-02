@@ -7,13 +7,13 @@
 ---
 🔽 All Cryptocurrency Logo With Format `.SVG` : [Page Link](https://github.com/Pymmdrza/Cryptocurrency_Logos/tree/mainx/SVG)
 
-✔️ Download All Logo Cryptocurrency with `.svg` format to zip file : [Download](https://workupload.com/file/HQGfV5uhpMM)
+✔️ Download All Logo Cryptocurrency with `.svg` format to zip file : [Download](https://github.com/Pymmdrza/Cryptocurrency_Logos/releases/download/SVG_v1.0.0.1/Cryptocurrency_All-Logo_SVG.zip 'ZIP - SVG Release')
 
 ---
 
 🔽 All Cryptocurrency Logo With Format `.PNG` : [Page Link](https://github.com/Pymmdrza/Cryptocurrency_Logos/tree/mainx/PNG)
 
-✔️ Download All Logo Cryptocurrency with `.png` format to zip file : [Download](https://workupload.com/file/jFDfJDyJEXN)
+✔️ Download All Logo Cryptocurrency with `.png` format to zip file : [Download](https://github.com/Pymmdrza/Cryptocurrency_Logos/releases/download/PNG_v1.0.0.1/Cryptocurrency_All-Logo_PNG.zip 'ZIP - PNG Release')
 
 ---
 
